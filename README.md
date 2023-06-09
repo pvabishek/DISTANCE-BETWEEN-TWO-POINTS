@@ -9,6 +9,8 @@ Write a program to find distance
 Get the input
 
 ### Step 3:
+![formula](https://github.com/pvabishek/DISTANCE-BETWEEN-TWO-POINTS/assets/119405626/99455cac-3b33-4653-99eb-c7d5e021b7f8)
+
 Substitute the values in the distance formula formula
 
 ### Step 4:
